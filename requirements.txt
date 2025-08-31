@@ -1,0 +1,6 @@
+cd path/to/your/project
+git init
+git add .
+git commit -m "اولین آپلود ربات موسیقی"
+git remote add origin https://github.com/USERNAME/REPO_NAME.git
+git push -u origin master
